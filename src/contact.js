@@ -1,7 +1,6 @@
 import Owner from '../dist/assets/owner.jpg';
 
-const loadContact = (bodyContent) => {
-
+function loadContact (bodyContent) {
     const contactDiv = document.createElement('div');
     contactDiv.classList.add('content-card');
     const contactTitle = document.createElement('p');

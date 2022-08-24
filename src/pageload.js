@@ -1,8 +1,8 @@
 import { homeTab, menuTab, contactTab } from "./index";
 
-const loadPage = (content) => {
+function loadPage (content) {
     renderHeadElem(content);
-    renderNavElem(content);
+    renderNavElem(content)
 }
 
 function renderHeadElem(content) {

@@ -1,4 +1,4 @@
-const loadHome = (content) => {
+function loadHome(content) {
     renderReviews(content);
     renderHours(content);
     renderLocation(content);

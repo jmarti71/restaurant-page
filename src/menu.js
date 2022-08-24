@@ -2,8 +2,7 @@ import Danish from '../dist/assets/danish.jpg';
 import Taramisu from '../dist/assets/taramisu.jpg';
 import Macarons from '../dist/assets/menu-macarons.jpg';
 
-const loadMenu = (bodyContent) => {
-
+function loadMenu (bodyContent){
     const items = [
         {
             Name: "Blueberry Danish         $3",
