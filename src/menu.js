@@ -1,6 +1,6 @@
-import Danish from './assets/danish.jpg';
-import Taramisu from './assets/taramisu.jpg';
-import Macarons from './assets/menu-macarons.jpg';
+import Danish from '../dist/assets/danish.jpg';
+import Taramisu from '../dist/assets/taramisu.jpg';
+import Macarons from '../dist/assets/menu-macarons.jpg';
 
 const loadMenu = (bodyContent) => {
 

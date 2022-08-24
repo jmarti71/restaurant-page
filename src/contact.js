@@ -1,4 +1,4 @@
-import Owner from './assets/owner.jpg';
+import Owner from '../dist/assets/owner.jpg';
 
 const loadContact = (bodyContent) => {
 
