@@ -11,7 +11,7 @@ body {
 
 .heading {
     height: min(35vh, 175px);
-    background-image: url(../assets/flour.jpg);
+    background-image: url(./assets/flour.jpg);
     background-size: cover;
 }
 
@@ -55,7 +55,7 @@ body {
 }
 
 .content-container {
-    background-image: url(../assets/macarons.jpg);
+    background-image: url(./assets/macarons.jpg);
     background-size: cover;
     background-color: bisque;
     display: flex;
